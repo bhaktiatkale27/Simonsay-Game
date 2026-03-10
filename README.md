@@ -1,4 +1,4 @@
-Simonsay-Game
+<h1>Simonsay-Game</h1>
 A browser-based Simon Says memory game built with HTML, CSS, and JavaScript.
 
 How to Play?

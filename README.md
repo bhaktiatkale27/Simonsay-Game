@@ -7,8 +7,8 @@
 Repeat the sequence by clicking the buttons in the same order
 Each round adds one more step to the sequence
 The game ends if you click the wrong button<p/>
-<br>
-<h3><ul>Built With</ul></h3>
+
+<h3>Built With</h3>
 <li>HTML5</li>
 <li>CSS3</li>
 <li>JavaScript </li>
